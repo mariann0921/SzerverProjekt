@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            new NaploElemzo("szerverek.csv", "naplok.csv");
         }
     }
 }
